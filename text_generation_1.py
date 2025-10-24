@@ -1,3 +1,5 @@
+# https://huggingface.co/Qwen/Qwen2.5-0.5B
+
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
 
